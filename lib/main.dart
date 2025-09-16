@@ -15,7 +15,7 @@ myCar.speed = 130;
 
 print("final speed:${myCar.speed} km/h");
 
-Bike myBike = Bike("Yamaha","R15", 120.75);
+Bike myBike = Bike("Yamaha","R15", 120.5,1.0);
   print("bike:${myBike.brand}");
   print("model:${myBike.model}");
   print("speed:${myBike.speed}");
