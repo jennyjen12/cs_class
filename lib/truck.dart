@@ -7,4 +7,5 @@ class Truck extends Vehicle {
 
   double get loadCapacity => _loadCapacity;
   set loadCapacity(double value) => _loadCapacity = value;
+  
 }
